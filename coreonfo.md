@@ -1,4 +1,4 @@
-coreonfo
+# coreonfo
 ***
 Coreinfo v3.52 - Dump information on system CPU and memory topology
 Copyright (C) 2008-2021 Mark Russinovich
